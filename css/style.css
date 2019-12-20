@@ -1,0 +1,108 @@
+@charset "utf-8";
+img {
+    margin-left: 100px;
+    text-align: center;
+    width: 450px;
+}
+body {
+    background-color: #EE171F;
+}
+	
+.Marvel {
+    margin-left: 0px;
+    width: 375x;
+    height: 112px;
+    float: left;
+    top: auto;
+    clear: left;
+    margin-bottom: 10px;
+}
+.stan {
+    width: 300px;
+    height: 210px;
+    float: left;
+    margin-left: 250px;
+    clear: left;
+    padding-left: 0px;
+    -webkit-box-shadow: 0px 0px 50px;
+    box-shadow: 0px 0px 50px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+p {
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: large;
+}
+.ditko {
+    float: left;
+    padding-left: 0px;
+    height: 210px;
+    min-height: auto;
+    margin-left: 50px;
+    -webkit-box-shadow: 0px 0px 50px;
+    box-shadow: 0px 0px 50px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+h1 {
+    font-style: normal;
+    font-weight: 400;
+    clear: left;
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    margin-top: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+video {
+    text-decoration: underline;
+    -webkit-box-shadow: 0px 0px px;
+    box-shadow: 0px 0px px;
+    background-position: 0% 0%;
+    background-color: #EE171F;
+    -ms-word-spacing: 50pt;
+    margin-top: 50px;
+    padding-right: 70px;
+}
+h3 {
+    float: left;
+    font-size: 15pt;
+    color: #FFFFFF;
+    margin-bottom: -110px;
+    clear: both;
+    padding-right: 0px;
+
+
+
+}
+.endgame {
+    float: left;
+    clear: right;
+    margin-left: 390px;
+    text-align: center;
+}
+.characters {
+    clear: left;
+
+}
+.charact {
+    float: left;
+	width: 800pt
+}
+a {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    float: left;
+    background-color: #FFFFFF;
+}
+ul {
+}
+
+
+.sm {
+    margin-left: 800px;
+}
+.au {
+}
